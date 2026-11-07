@@ -1,0 +1,6 @@
+{
+  "name": "NudgeMed",
+  "description": "An empathetic medicine adherence app that learns why patients miss doses, discovers behavioral patterns, prevents stockouts, and assists doctors safely.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
